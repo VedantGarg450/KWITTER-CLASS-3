@@ -32,5 +32,5 @@ function add_room(){
 }
 function redirect(basket){
       localStorage.setItem("SaveRoomName", basket);
-      window.location= "kwitter_page.html"
+      window.location= "kwitter_page.html";
 }
